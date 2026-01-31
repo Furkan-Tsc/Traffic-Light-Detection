@@ -8,7 +8,7 @@ Bu uygulama kameradan gelen görüntüdeki trafik ışıklarını gerçek zamman
 * **GPU Performansı:** NVIDIA ekran kartı var ise çok daha performanslı çalışır (CUDA).
 * **Teknolojiler:** YOLOv9 modeli kullanılmış ve OpenCV desteklidir.
 
-### 🛠️ Kurulum
+### Kurulum
 Çalıştırmak için şu komut ile gereksinimleri yüklemelisin:
 
 ```bash
@@ -16,6 +16,4 @@ pip install ultralytics opencv-python torch
 ```
 
 ### Çalıştırma
-v9_64_epochs.pt dosyasını kodun olduğu klasöre koy.
-
-Python dosyanı çalıştır.
+v9_64_epochs.pt dosyasını kodun olduğu klasöre koy. Ve Python dosyanı çalıştır.
