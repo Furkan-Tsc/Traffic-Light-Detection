@@ -17,3 +17,7 @@ pip install ultralytics opencv-python torch
 
 ### Çalıştırma
 v9_64_epochs.pt dosyasını kodun olduğu klasöre koy. Ve Python dosyanı çalıştır.
+
+### Örnekler
+
+![test](https://github.com/user-attachments/assets/31b8e4a4-268e-4174-af9b-2b2f014b8765)
