@@ -1,6 +1,6 @@
 # Python ile Trafik Işığı Tespiti
 
-Bu uygulama kameradan gelen görüntüdeki trafik ışıklarını gerçek zammanlı olarak tanır ve ekranda gösterir.
+Bu uygulama kameradan gelen görüntüdeki trafik ışıklarını gerçek zamanlı olarak tanır ve ekranda gösterir.
 
 ### Özellikleri
 * **Canlı Tespit:** Açtığınız anda kameradan trafik ışıklarını bulmaya başlar.
